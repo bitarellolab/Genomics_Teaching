@@ -1,0 +1,31 @@
+assembly_id	label	label_source	taxid	num_SCG_hits	uniq_SCG_hits	perc_comp	perc_redund	num_SCG_hits_after_len_filt	in_final_tree	NCBI_domain	NCBI_phylum	NCBI_class	NCBI_order	NCBI_family	NCBI_genus	NCBI_species
+GCF_000011385	GCF_000011385_Gloeobacter_violaceus	NCBI	251221	236	229	94.02	2.79	215	Yes	Bacteria	Cyanobacteriota	Cyanophyceae	Gloeobacterales	Gloeobacteraceae	Gloeobacter	Gloeobacter violaceus
+GCF_000012505	GCF_000012505_Synechococcus_sp_CC9902	NCBI	316279	251	250	100.00	0.40	249	Yes	Bacteria	Cyanobacteriota	Cyanophyceae	Synechococcales	Synechococcaceae	Synechococcus	Synechococcus sp. CC9902
+GCF_000012625	GCF_000012625_Synechococcus_sp_CC9605	NCBI	110662	251	249	100.00	0.80	249	Yes	Bacteria	Cyanobacteriota	Cyanophyceae	Synechococcales	Synechococcaceae	Synechococcus	Synechococcus sp. CC9605
+GCF_000014585	GCF_000014585_Synechococcus_sp_CC9311	NCBI	64471	251	250	100.00	0.40	248	Yes	Bacteria	Cyanobacteriota	Cyanophyceae	Synechococcales	Synechococcaceae	Synechococcus	Synechococcus sp. CC9311
+GCF_000153065	GCF_000153065_Synechococcus_sp_RS9917	NCBI	221360	250	250	99.60	0.00	248	Yes	Bacteria	Cyanobacteriota	Cyanophyceae	Synechococcales	Synechococcaceae	Synechococcus	Synechococcus sp. RS9917
+GCF_000153285	GCF_000153285_Synechococcus_sp_WH_7805	NCBI	59931	251	250	100.00	0.40	248	Yes	Bacteria	Cyanobacteriota	Cyanophyceae	Synechococcales	Synechococcaceae	Synechococcus	Synechococcus sp. WH 7805
+GCF_000153805	GCF_000153805_Synechococcus_sp_BL107	NCBI	313625	251	249	100.00	0.80	248	Yes	Bacteria	Cyanobacteriota	Cyanophyceae	Synechococcales	Synechococcaceae	Synechococcus	Synechococcus sp. BL107
+GCF_000153825	GCF_000153825_Synechococcus_sp_RS9916	NCBI	221359	250	247	99.60	1.20	245	Yes	Bacteria	Cyanobacteriota	Cyanophyceae	Synechococcales	Synechococcaceae	Synechococcus	Synechococcus sp. RS9916
+GCF_000161795	GCF_000161795_Synechococcus_sp_WH_8109	NCBI	166314	251	248	100.00	1.20	248	Yes	Bacteria	Cyanobacteriota	Cyanophyceae	Synechococcales	Synechococcaceae	Synechococcus	Synechococcus sp. WH 8109
+GCF_000195975	GCF_000195975_Parasynechococcus_marenigrum	NCBI	84588	251	250	100.00	0.40	250	Yes	Bacteria	Cyanobacteriota	Cyanophyceae	Synechococcales	Prochlorococcaceae	Parasynechococcus	Parasynechococcus marenigrum
+GCF_000230675	GCF_000230675_Synechococcus_sp_WH_8016	NCBI	166318	251	250	100.00	0.40	248	Yes	Bacteria	Cyanobacteriota	Cyanophyceae	Synechococcales	Synechococcaceae	Synechococcus	Synechococcus sp. WH 8016
+GCF_000515235	GCF_000515235_Synechococcus_sp_CC9616	NCBI	110663	251	249	100.00	0.80	249	Yes	Bacteria	Cyanobacteriota	Cyanophyceae	Synechococcales	Synechococcaceae	Synechococcus	Synechococcus sp. CC9616
+GCF_000737535	GCF_000737535_Synechococcus_sp_KORDI-100	NCBI	1280380	251	250	100.00	0.40	250	Yes	Bacteria	Cyanobacteriota	Cyanophyceae	Synechococcales	Synechococcaceae	Synechococcus	Synechococcus sp. KORDI-100
+GCF_000737575	GCF_000737575_Synechococcus_sp_KORDI-49	NCBI	585423	251	250	100.00	0.40	250	Yes	Bacteria	Cyanobacteriota	Cyanophyceae	Synechococcales	Synechococcaceae	Synechococcus	Synechococcus sp. KORDI-49
+GCF_000737595	GCF_000737595_Synechococcus_sp_KORDI-52	NCBI	585425	250	248	99.60	0.80	248	Yes	Bacteria	Cyanobacteriota	Cyanophyceae	Synechococcales	Synechococcaceae	Synechococcus	Synechococcus sp. KORDI-52
+GCF_001040845	GCF_001040845_Synechococcus_sp_WH_8020	NCBI	32052	251	250	100.00	0.40	248	Yes	Bacteria	Cyanobacteriota	Cyanophyceae	Synechococcales	Synechococcaceae	Synechococcus	Synechococcus sp. WH 8020
+GCF_001631935	GCF_001631935_Synechococcus_sp_MIT_S9509	NCBI	1801630	249	246	99.20	1.20	242	Yes	Bacteria	Cyanobacteriota	Cyanophyceae	Synechococcales	Synechococcaceae	Synechococcus	Synechococcus sp. MIT S9509
+GCF_001632165	GCF_001632165_Synechococcus_sp_MIT_S9508	NCBI	1801629	250	248	99.60	0.80	244	Yes	Bacteria	Cyanobacteriota	Cyanophyceae	Synechococcales	Synechococcaceae	Synechococcus	Synechococcus sp. MIT S9508
+GEYO	GEYO	input	NA	248	245	98.80	1.20	239	Yes	
+N19	N19	input	NA	248	247	98.80	0.40	246	Yes	
+N26	N26	input	NA	249	248	99.20	0.40	246	Yes	
+N32	N32	input	NA	249	248	99.20	0.40	246	Yes	
+N5	N5	input	NA	249	248	99.20	0.40	245	Yes	
+UW105	UW105	input	NA	246	244	98.01	0.80	235	Yes	
+UW106	UW106	input	NA	247	246	98.41	0.40	243	Yes	
+UW140	UW140	input	NA	247	244	98.41	1.20	236	Yes	
+UW179A	UW179A	input	NA	249	246	99.20	1.20	238	Yes	
+UW179B	UW179B	input	NA	245	244	97.61	0.40	234	Yes	
+UW69	UW69	input	NA	247	246	98.41	0.40	243	Yes	
+UW86	UW86	input	NA	248	246	98.80	0.80	244	Yes	

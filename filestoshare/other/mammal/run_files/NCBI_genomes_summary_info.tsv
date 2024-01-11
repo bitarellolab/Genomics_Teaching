@@ -1,0 +1,93 @@
+input_accession	downloaded_accession	assembly_name	taxid	organism_name	infraspecific_name	version_status	assembly_level	num_SCG_hits	uniq_SCG_hits	perc_comp	perc_redund
+GCF_000002295.2	GCF_000002295.2	MonDom5	13616	Monodelphis domestica	NA	latest	Chromosome	16	5	100.00	156.25
+GCF_000165445.2	GCF_000165445.2	Mmur_3.0	30608	Microcebus murinus	NA	latest	Chromosome	16	1	100.00	268.75
+GCF_000002285.5	GCF_000002285.5	Dog10K_Boxer_Tasha	9615	Canis lupus familiaris	breed=boxer	latest	Chromosome	16	4	100.00	400.00
+GCF_000003025.6	GCF_000003025.6	Sscrofa11.1	9823	Sus scrofa	breed=Duroc	latest	Chromosome	16	1	100.00	275.00
+GCF_000247795.1	GCF_000247795.1	Bos_indicus_1.0	9915	Bos indicus	breed=Nelore	latest	Chromosome	16	6	100.00	212.50
+GCF_000317375.1	GCF_000317375.1	MicOch1.0	79684	Microtus ochrogaster	NA	latest	Chromosome	16	4	100.00	175.00
+GCF_001704415.2	GCF_001704415.2	ARS1.2	9925	Capra hircus	breed=San Clemente	latest	Chromosome	16	2	100.00	281.25
+GCF_000803125.2	GCF_000803125.2	CamDro3	9838	Camelus dromedarius	breed=African	latest	Chromosome	16	4	100.00	206.25
+GCF_002007445.2	GCF_002007445.2	ASM200744v3	9646	Ailuropoda melanoleuca	NA	latest	Chromosome	16	1	100.00	331.25
+GCF_002776525.5	GCF_002776525.5	ASM277652v5	591936	Piliocolobus tephrosceles	NA	latest	Chromosome	16	3	100.00	325.00
+GCF_002201575.2	GCF_002201575.2	ASM220157v2	29088	Neomonachus schauinslandi	NA	latest	Chromosome	16	1	100.00	375.00
+GCF_002263795.2	GCF_002263795.2	ARS-UCD1.3	9913	Bos taurus	breed=Hereford	latest	Chromosome	16	5	100.00	243.75
+GCF_002837175.2	GCF_002837175.2	ASM283717v2	9755	Physeter catodon	NA	latest	Chromosome	16	4	100.00	250.00
+GCF_002863925.1	GCF_002863925.1	EquCab3.0	9796	Equus caballus	breed=thoroughbred	latest	Chromosome	16	6	100.00	187.50
+GCF_003254725.2	GCF_003254725.2	ASM325472v2	286419	Canis lupus dingo	NA	latest	Chromosome	16	2	100.00	587.50
+GCF_003255815.1	GCF_003255815.1	Tgel_1.0	9565	Theropithecus gelada	NA	latest	Chromosome	16	0	100.00	606.25
+GCF_002880755.1	GCF_002880755.1	Clint_PTRv2	9598	Pan troglodytes	NA	latest	Chromosome	16	3	100.00	375.00
+GCF_003339765.1	GCF_003339765.1	Mmul_10	9544	Macaca mulatta	NA	latest	Chromosome	16	1	100.00	425.00
+GCF_003369695.1	GCF_003369695.1	UOA_Brahman_1	30522	Bos indicus x Bos taurus	breed=Angus x Brahman F1 hybrid	latest	Chromosome	16	6	100.00	218.75
+GCF_003704035.1	GCF_003704035.1	HU_Pman_2.1.3	230844	Peromyscus maniculatus bairdii	NA	latest	Chromosome	16	0	100.00	268.75
+GCF_004115215.2	GCF_004115215.2	mOrnAna1.pri.v4	9258	Ornithorhynchus anatinus	NA	latest	Chromosome	16	8	100.00	106.25
+GCF_004115265.2	GCF_004115265.2	mRhiFer1_v1.p	59479	Rhinolophus ferrumequinum	NA	latest	Chromosome	16	2	100.00	343.75
+GCF_004126475.2	GCF_004126475.2	mPhyDis1.pri.v3	89673	Phyllostomus discolor	NA	latest	Chromosome	16	0	100.00	343.75
+GCF_006229205.1	GCF_006229205.1	meerkat_22Aug2017_6uvM2_HiC	37032	Suricata suricatta	NA	latest	Chromosome	16	6	100.00	193.75
+GCF_004664715.2	GCF_004664715.2	UCI_PerLeu_2.1	10041	Peromyscus leucopus	breed=LL Stock	latest	Chromosome	16	3	100.00	281.25
+GCF_006542625.1	GCF_006542625.1	Asia_NLE_v1	61853	Nomascus leucogenys	NA	latest	Chromosome	16	2	100.00	325.00
+GCF_007474595.2	GCF_007474595.2	mLynCan4.pri.v2	61383	Lynx canadensis	NA	latest	Chromosome	16	3	100.00	356.25
+GCF_007565055.1	GCF_007565055.1	ASM756505v1	61622	Rhinopithecus roxellana	NA	latest	Chromosome	16	1	100.00	393.75
+GCF_008122165.1	GCF_008122165.1	Kamilah_GGO_v0	9595	Gorilla gorilla gorilla	breed=western lowland gorilla	latest	Chromosome	15	1	93.75	293.75
+GCF_008632895.1	GCF_008632895.1	UCSF_Mcou_1	35658	Mastomys coucha	NA	latest	Chromosome	16	4	100.00	243.75
+GCF_008692025.1	GCF_008692025.1	mPhoSin1.pri	42100	Phocoena sinus	NA	latest	Chromosome	16	1	100.00	456.25
+GCF_008728515.1	GCF_008728515.1	Panubis1.0	9555	Papio anubis	NA	latest	Chromosome	16	2	100.00	306.25
+GCF_009762305.2	GCF_009762305.2	mZalCal1.pri.v2	9704	Zalophus californianus	NA	latest	Chromosome	16	0	100.00	581.25
+GCF_009806435.1	GCF_009806435.1	UM_NZW_1.0	9986	Oryctolagus cuniculus	breed=New Zealand White	latest	Chromosome	16	1	100.00	506.25
+GCF_009829155.1	GCF_009829155.1	mMusErm1.Pri	36723	Mustela erminea	NA	latest	Chromosome	16	4	100.00	343.75
+GCF_009834535.1	GCF_009834535.1	BCGSAC_Cfer_1.0	419612	Camelus ferus	NA	latest	Chromosome	16	2	100.00	281.25
+GCF_009873245.2	GCF_009873245.2	mBalMus1.pri.v3	9771	Balaenoptera musculus	NA	latest	Chromosome	16	1	100.00	431.25
+GCF_011064425.1	GCF_011064425.1	Rrattus_CSIRO_v1	10117	Rattus rattus	NA	latest	Chromosome	16	0	100.00	362.50
+GCF_011100635.1	GCF_011100635.1	mTriVul1.pri	9337	Trichosurus vulpecula	NA	latest	Chromosome	16	0	100.00	975.00
+GCF_011762505.1	GCF_011762505.1	mArvNil1.pat.X	61156	Arvicanthis niloticus	NA	latest	Chromosome	16	0	100.00	362.50
+GCF_011100555.1	GCF_011100555.1	mCalJa1.2.pat.X	9483	Callithrix jacchus	NA	latest	Chromosome	16	3	100.00	656.25
+GCF_011762595.1	GCF_011762595.1	mTurTru1.mat.Y	9739	Tursiops truncatus	NA	latest	Chromosome	16	2	100.00	375.00
+GCF_012559485.2	GCF_012559485.2	MFA1912RKSv2	9541	Macaca fascicularis	NA	latest	Chromosome	16	0	100.00	606.25
+GCF_014633375.1	GCF_014633375.1	OchPri4.0	9978	Ochotona princeps	NA	latest	Chromosome	15	2	93.75	175.00
+GCF_013052645.1	GCF_013052645.1	Mhudiblu_PPA_v0	9597	Pan paniscus	NA	latest	Chromosome	16	2	100.00	581.25
+GCF_015220235.1	GCF_015220235.1	mChoDid1.pri	27675	Choloepus didactylus	NA	latest	Chromosome	16	2	100.00	393.75
+GCF_015852505.1	GCF_015852505.1	mTacAcu1.pri	9261	Tachyglossus aculeatus	NA	latest	Chromosome	16	7	100.00	112.50
+GCF_016432865.1	GCF_016432865.1	AdamAnt_v2	38775	Antechinus flavipes	ecotype=Samford, QLD, Australia	latest	Chromosome	16	4	100.00	150.00
+GCF_016077325.2	GCF_016077325.2	ASM1607732v2	9793	Equus asinus	breed=Dezhou	latest	Chromosome	16	2	100.00	268.75
+GCF_015227675.2	GCF_015227675.2	mRatBN7.2	10116	Rattus norvegicus	strain=BN/NHsdMcwi	latest	Chromosome	16	0	100.00	575.00
+GCF_016433145.1	GCF_016433145.1	AgileGrace	191870	Gracilinanus agilis	NA	latest	Chromosome	16	4	100.00	281.25
+GCF_016509475.1	GCF_016509475.1	Fcat_Pben_1.1_paternal_pri	37029	Prionailurus bengalensis	NA	latest	Chromosome	16	3	100.00	350.00
+GCF_016906955.1	GCF_016906955.1	ROS_Pafr_v1	41426	Phacochoerus africanus	NA	latest	Chromosome	16	3	100.00	206.25
+GCF_016881025.1	GCF_016881025.1	HiC_Itri_2	43179	Ictidomys tridecemlineatus	NA	latest	Chromosome	15	4	93.75	212.50
+GCF_016772045.1	GCF_016772045.1	ARS-UI_Ramb_v2.0	9940	Ovis aries	strain=OAR_USU_Benz2616, /breed=Rambouillet	latest	Chromosome	16	2	100.00	693.75
+GCF_018345385.1	GCF_018345385.1	ASM1834538v1	494514	Vulpes lagopus	strain=Blue_001	latest	Chromosome	16	2	100.00	468.75
+GCF_018350155.1	GCF_018350155.1	O.geoffroyi_Oge1_pat1.0	46844	Leopardus geoffroyi	NA	latest	Chromosome	16	4	100.00	281.25
+GCF_018350175.1	GCF_018350175.1	F.catus_Fca126_mat1.0	9685	Felis catus	NA	latest	Chromosome	16	4	100.00	300.00
+GCF_018350195.1	GCF_018350195.1	P.tigris_Pti1_mat1.1	9694	Panthera tigris	NA	latest	Chromosome	16	5	100.00	287.50
+GCF_018350215.1	GCF_018350215.1	P.leo_Ple1_pat1.1	9689	Panthera leo	NA	latest	Chromosome	16	4	100.00	275.00
+GCF_019320065.1	GCF_019320065.1	ASM1932006v1	1574408	Cervus canadensis	NA	latest	Chromosome	16	0	100.00	775.00
+GCF_019393635.1	GCF_019393635.1	mDroGli1.pri	33562	Dromiciops gliroides	NA	latest	Chromosome	16	0	100.00	818.75
+GCF_020171115.1	GCF_020171115.1	ASM_NN_V1	452646	Neogale vison	NA	latest	Chromosome	16	4	100.00	312.50
+GCF_019923935.1	GCF_019923935.1	NDDB_SH_1	89462	Bubalus bubalis	breed=Murrah	latest	Chromosome	16	1	100.00	356.25
+GCF_020740605.2	GCF_020740605.2	mLemCat1.pri	9447	Lemur catta	NA	latest	Chromosome	16	4	100.00	262.50
+GCF_020740685.1	GCF_020740685.1	mJacJac1.mat.Y.cur	51337	Jaculus jaculus	NA	latest	Chromosome	16	1	100.00	293.75
+GCF_021288785.2	GCF_021288785.1	ASM2128878v2	9716	Mirounga angustirostris	NA	latest	Scaffold	16	3	100.00	406.25
+GCF_021613505.1	GCF_021613505.1	UCLA_HA_Equagga_1.0	89248	Equus quagga	NA	latest	Chromosome	16	3	100.00	193.75
+GCF_022682495.1	GCF_022682495.1	HLdesRot8A	9430	Desmodus rotundus	NA	latest	Chromosome	16	1	100.00	262.50
+GCF_022837055.1	GCF_022837055.1	UM_Priviv_1.0	61388	Prionailurus viverrinus	NA	latest	Chromosome	16	2	100.00	318.75
+GCF_023091745.1	GCF_023091745.1	Takin1.1	37181	Budorcas taxicolor	NA	latest	Chromosome	16	3	100.00	356.25
+GCF_023159225.1	GCF_023159225.1	ASM2315922v1	214514	Perognathus longimembris pacificus	NA	latest	Chromosome	16	3	100.00	225.00
+GCF_024139225.1	GCF_024139225.1	mSunEtr1.pri.cur	109475	Suncus etruscus	NA	latest	Chromosome	16	1	100.00	281.25
+GCF_023721935.1	GCF_023721935.1	Puncia_PCG_1.0	29064	Panthera uncia	NA	latest	Chromosome	16	2	100.00	337.50
+GCF_024166365.1	GCF_024166365.1	mEleMax1 primary haplotype	99487	Elephas maximus indicus	NA	latest	Chromosome	16	3	100.00	293.75
+GCF_024542745.1	GCF_024542745.1	ASM2454274v1	257877	Macaca thibetana thibetana	NA	latest	Chromosome	16	0	100.00	768.75
+GCF_027406575.1	GCF_027406575.1	mNycCou1.pri	9470	Nycticebus coucang	NA	latest	Chromosome	16	0	100.00	587.50
+GCF_027475565.1	GCF_027475565.1	VMU_Ajub_asm_v1.0	32536	Acinonyx jubatus	NA	latest	Chromosome	16	4	100.00	250.00
+GCF_028885625.1	GCF_028885625.1	NHGRI_mPonPyg2-v1.1-hic.freeze_pri	9600	Pongo pygmaeus	NA	latest	Chromosome	15	0	93.75	400.00
+GCF_028885655.1	GCF_028885655.1	NHGRI_mPonAbe1-v1.1-hic.freeze_pri	9601	Pongo abelii	NA	latest	Chromosome	16	0	100.00	525.00
+GCF_900094665.2	GCF_900094665.2	CAROLI_EIJ_v1.1	10089	Mus caroli	NA	latest	Chromosome	16	3	100.00	218.75
+GCF_900095145.1	GCF_900095145.1	PAHARI_EIJ_v1.1	10093	Mus pahari	NA	latest	Chromosome	16	4	100.00	181.25
+GCF_902635505.1	GCF_902635505.1	mSarHar1.11	9305	Sarcophilus harrisii	NA	latest	Chromosome	16	5	100.00	143.75
+GCF_902655055.1	GCF_902655055.1	mLutLut1.2	9657	Lutra lutra	NA	latest	Chromosome	16	3	100.00	343.75
+GCF_902686445.1	GCF_902686445.1	mSciCar1.2	30640	Sciurus carolinensis	NA	latest	Chromosome	15	3	93.75	275.00
+GCF_903992535.2	GCF_903992535.2	mArvAmp1.2	1047088	Arvicola amphibius	NA	latest	Chromosome	16	1	100.00	381.25
+GCF_903995425.1	GCF_903995425.1	mOncTor1.1	38674	Onychomys torridus	NA	latest	Chromosome	16	4	100.00	168.75
+GCF_903995435.1	GCF_903995435.1	mAcoRus1.1	60746	Acomys russatus	NA	latest	Chromosome	16	2	100.00	368.75
+GCF_910594005.1	GCF_910594005.1	mCerEla1.1	9860	Cervus elaphus	NA	latest	Chromosome	16	1	100.00	743.75
+GCF_922984935.1	GCF_922984935.1	mMelMel3.1 paternal haplotype	9662	Meles meles	NA	latest	Chromosome	16	3	100.00	312.50
+GCF_947179515.1	GCF_947179515.1	mApoSyl1.1	10129	Apodemus sylvaticus	NA	latest	Chromosome	16	4	100.00	281.25
+GCF_937001465.1	GCF_937001465.1	mOrcOrc1.1	9733	Orcinus orca	NA	latest	Chromosome	16	1	100.00	437.50

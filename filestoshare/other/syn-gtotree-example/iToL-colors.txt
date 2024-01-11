@@ -1,0 +1,28 @@
+TREE_COLORS
+SEPARATOR TAB
+DATA
+
+GEYO	label	#0000ff	bold
+N19	label	#0000ff	bold
+N26	label	#0000ff	bold
+N32	label	#0000ff	bold
+N5	label	#0000ff	bold
+UW105	label	#0000ff	bold
+UW106	label	#0000ff	bold
+UW140	label	#0000ff	bold
+UW179A	label	#0000ff	bold
+UW179B	label	#0000ff	bold
+UW69	label	#0000ff	bold
+UW86	label	#0000ff	bold
+GEYO	branch	#0000ff	normal	1.5
+N19	branch	#0000ff	normal	1.5
+N26	branch	#0000ff	normal	1.5
+N32	branch	#0000ff	normal	1.5
+N5	branch	#0000ff	normal	1.5
+UW105	branch	#0000ff	normal	1.5
+UW106	branch	#0000ff	normal	1.5
+UW140	branch	#0000ff	normal	1.5
+UW179A	branch	#0000ff	normal	1.5
+UW179B	branch	#0000ff	normal	1.5
+UW69	branch	#0000ff	normal	1.5
+UW86	branch	#0000ff	normal	1.5

@@ -1,0 +1,8 @@
+Ribosomal_L14
+Ribosomal_L16
+Ribosomal_L22
+Ribosomal_L2
+Ribosomal_L3
+Ribosomal_L4
+Ribosomal_S10
+Ribosomal_S17

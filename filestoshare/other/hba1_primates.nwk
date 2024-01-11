@@ -1,0 +1,88 @@
+(
+(
+Mandrillus sphinx:0.01345,
+(
+Cercocebus atys:0.01202,
+(
+Papio cynocephalus:0.00923,
+Theropithecus gelada:0.01205)
+:0.00926)
+:0.01491)
+:0.02122,
+(
+(
+(
+(
+(
+Cephalopachus bancanus:0.04306,
+(
+(
+Loris tardigradus:0.01486,
+Nycticebus coucang:0.01351)
+:0.01316,
+(
+Eulemur fulvus:0.02800,
+(
+Varecia variegata:0.03537,
+Hapalemur griseus:0.05035)
+:0.01100)
+:0.04278)
+:0.00260)
+:0.01635,
+(
+(
+(
+(
+(
+Cebus capucinus:0.01263,
+Sapajus apella:0.00156)
+:0.01463,
+(
+Ateles geoffroyi:0.00000,
+(
+Saguinus oedipus:0.00000,
+Saguinus mystax:0.00709)
+:0.00000)
+:0.00661)
+:0.00305,
+Mico argentatus:0.00938)
+:0.00366,
+Leontocebus fuscicollis:0.01141)
+:0.00654,
+(
+Gorilla gorilla:0.00618,
+(
+(
+Homo sapiens:0.00000,
+Pan paniscus:0.00000)
+:0.00000,
+Pan troglodytes:0.00000)
+:0.00091)
+:0.00674)
+:0.00393)
+:0.00532,
+(
+Piliocolobus badius:0.02531,
+Semnopithecus entellus:0.01015)
+:0.00457)
+:0.00729,
+(
+Macaca nemestrina:0.01369,
+(
+Macaca sinica:0.00666,
+Macaca fascicularis:0.00043)
+:0.00049)
+:0.00284)
+:0.00139,
+(
+Macaca speciosa:0.00629,
+Macaca assamensis:0.00080)
+:0.00248)
+:0.00065,
+(
+Chlorocebus aethiops:0.00244,
+(
+Macaca fuscata:0.00000,
+Macaca mulatta:0.00000)
+:0.00460)
+:0.00446);

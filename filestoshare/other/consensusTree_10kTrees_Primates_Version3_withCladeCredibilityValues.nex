@@ -1,0 +1,35 @@
+#NEXUS
+BEGIN TREES;
+translate
+1 Chlorocebus_aethiops,
+2 Eulemur_fulvus_fulvus,
+3 Hapalemur_griseus,
+4 Ateles_geoffroyi,
+5 Callithrix_argentata,
+6 Cebus_apella,
+7 Cebus_capucinus,
+8 Saguinus_fuscicollis,
+9 Saguinus_mystax,
+10 Saguinus_oedipus,
+11 Loris_tardigradus,
+12 Nycticebus_coucang,
+13 Gorilla_gorilla_gorilla,
+14 Homo_sapiens,
+15 Pan_paniscus,
+16 Pan_troglodytes_troglodytes,
+17 Cercocebus_torquatus_atys,
+18 Macaca_arctoides,
+19 Macaca_assamensis,
+20 Macaca_fascicularis,
+21 Macaca_fuscata,
+22 Macaca_mulatta,
+23 Macaca_nemestrina,
+24 Macaca_sinica,
+25 Mandrillus_sphinx,
+26 Papio_cynocephalus,
+27 Theropithecus_gelada,
+28 Piliocolobus_badius,
+29 Semnopithecus_entellus,
+30 Tarsius_bancanus;
+tree consensus_30species_withCladeCredValues = ((((((1:0.079697,(((17:0.027875,25:0.029272)1:0.031762,(27:0.030684,26:0.031453)1:0.031669)1:0.008593,(((18:0.022651,(19:0.018141,24:0.013925)0.64:0.006345)0.63:0.005197,23:0.040409,21:0.022448)0.57:0.006759,(20:0.026909,22:0.022634)1:0.008284)0.95:0.041139)0.95:0.014824)1:0.046493,(28:0.081395,29:0.095240)1:0.048916)1:0.086552,(13:0.041841,(14:0.039953,(15:0.012528,16:0.011250)1:0.019348)1:0.015261)1:0.128003)1:0.094920,(4:0.106740,((5:0.094167,((10:0.053017,9:0.068952)0.87:0.018197,8:0.060332)0.99:0.028999)1:0.040075,(7:0.043580,6:0.030819)1:0.081258)1:0.012600)1:0.179014)1:0.162404,30:0.287904)1:0.024775,((2:0.072396,3:0.082876)1:0.177651,(11:0.123336,12:0.114767)1:0.221459)1:0.044877)-1;
+END;

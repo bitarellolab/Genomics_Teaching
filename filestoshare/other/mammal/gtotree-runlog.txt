@@ -1,0 +1,219 @@
+
+
+               GToTree v1.7.08 (github.com/AstrobioMike/GToTree)
+
+
+ ---------------------------------  RUN INFO  --------------------------------- 
+
+    Command entered:
+    /Users/bbitarello/opt/miniconda3/envs/GtoTree/bin/GToTree -a assembly_result_mammal.txt -H Universal -t -j 4 -o mammal -G 0.4
+
+
+    Input genome sources include:
+      - NCBI accessions listed in assembly_result_mammal.txt (92 genomes)
+
+                             Total input genomes: 92
+
+    HMM source to be used:
+      - Universal_Hug_et_al (16 targets)
+
+    Options set:
+      - The output directory has been set to "mammal/"
+      - Taxonkit will be used to add NCBI taxonomy info to labels where possible
+      - Genome minimum gene-copy threshold ("-G") has been set to 0.4
+      - Number of jobs to run during parallelizable steps has been set to 4
+
+ ############################################################################## 
+ ####          Working on the genomes provided as NCBI accessions          ####
+ ############################################################################## 
+
+
+		  Downloading RefSeq assembly summaries...
+
+
+
+	        All 92 input accessions successfully found.
+
+________________________________________________________________________________
+
+
+     ******************************* UPDATE *******************************  
+        Of the input genomes provided by NCBI accession:
+
+     ********************************************************************** 
+
+                All 92 successfully downloaded and searched :)
+
+ ############################################################################## 
+ ####                     Filtering genes by length                        ####
+ ############################################################################## 
+
+     Keeping those with lengths within 20% of the median for the gene set.
+
+           It is currently 06:32 PM; the process started at 06:28 PM.
+               Current process runtime: 0 hours and 3 minutes.
+
+  ********************************** NOTICE **********************************  
+    8 gene(s) either had no hits in any genome, a hit in only one genome, or
+    only multiple hits per genome... Just so ya know!!
+
+        These included:
+
+                     Ribosomal_L14
+                     Ribosomal_L16
+                     Ribosomal_L22
+                     Ribosomal_L2
+                     Ribosomal_L3
+                     Ribosomal_L4
+                     Ribosomal_S10
+                     Ribosomal_S17
+
+    Reported in "mammal/run_files/Target-genes-not-found-or-retained.txt".
+
+   If interested, you can figure out which of those scenarios was the cause by
+   checking out "mammal/SCG_hit_counts.tsv".
+  ****************************************************************************  
+
+________________________________________________________________________________ 
+
+
+
+ ############################################################################## 
+ ####                Filtering genomes with too few hits                   ####
+ ############################################################################## 
+
+     Removing those with fewer than 40% of the total SCGs targeted.
+
+           It is currently 06:32 PM; the process started at 06:28 PM.
+               Current process runtime: 0 hours and 3 minutes.
+
+  ********************************** NOTICE **********************************  
+    48 genome(s) removed from analysis due to having too few hits.
+
+    Reported in "mammal/run_files/Genomes_removed_for_too_few_hits.tsv".
+  ****************************************************************************  
+
+________________________________________________________________________________
+
+
+
+ ############################################################################## 
+ ####          Aligning, trimming, and inserting gap-sequences             ####
+ ############################################################################## 
+
+           It is currently 06:32 PM; the process started at 06:28 PM.
+               Current process runtime: 0 hours and 3 minutes.
+
+
+
+________________________________________________________________________________
+
+
+
+ ############################################################################## 
+ ####                  Catting all alignments together                     ####
+ ############################################################################## 
+
+           It is currently 06:32 PM; the process started at 06:28 PM.
+               Current process runtime: 0 hours and 4 minutes.
+
+
+________________________________________________________________________________
+
+
+
+ ############################################################################## 
+ ####                   Adding more informative headers                    ####
+ ############################################################################## 
+
+
+________________________________________________________________________________
+
+
+
+ ############################################################################## 
+ ####                         Running FastTreeMP                           ####
+ ############################################################################## 
+
+           It is currently 06:32 PM; the process started at 06:28 PM.
+               Current process runtime: 0 hours and 4 minutes.
+
+FastTree Version 2.1.11 Double precision (No SSE3), OpenMP (4 threads)
+Alignment: mammal/Aligned_SCGs_mod_names.faa
+Amino acid distances: BLOSUM45 Joins: balanced Support: SH-like 1000
+Search: Normal +NNI +SPR (2 rounds range 10) +ML-NNI opt-each=1
+TopHits: 1.00*sqrtN close=default refresh=0.80
+ML Model: Jones-Taylor-Thorton, CAT approximation with 20 rate categories
+Ignored unknown character X (seen 1472 times)
+Initial topology in 0.03 seconds
+Refining topology: 22 rounds ME-NNIs, 2 rounds ME-SPRs, 11 rounds ML-NNIs
+      0.11 seconds: ME NNI round 15 of 22, 1 of 40 splits
+Total branch-length 0.108 after 0.12 sec
+      0.31 seconds: ML NNI round 1 of 11, 1 of 40 splits
+ML-NNI round 1: LogLk = -5679.644 NNIs 20 max delta 5.78 Time 0.64
+      0.65 seconds: Site likelihoods with rate category 1 of 20
+      0.76 seconds: Site likelihoods with rate category 8 of 20
+      0.87 seconds: Site likelihoods with rate category 15 of 20
+Switched to using 20 rate categories (CAT approximation)
+Rate categories were divided by 0.657 so that average rate = 1.0
+CAT-based log-likelihoods may not be comparable across runs
+Use -gamma for approximate but comparable Gamma(20) log-likelihoods
+      0.97 seconds: ML NNI round 2 of 11, 1 of 40 splits
+ML-NNI round 2: LogLk = -5575.878 NNIs 15 max delta 0.12 Time 1.30
+      1.29 seconds: ML NNI round 3 of 11, 1 of 40 splits
+ML-NNI round 3: LogLk = -5575.856 NNIs 11 max delta 0.00 Time 1.61
+Turning off heuristics for final round of ML NNIs (converged)
+      1.61 seconds: ML NNI round 4 of 11, 1 of 40 splits
+ML-NNI round 4: LogLk = -5575.321 NNIs 9 max delta 0.29 Time 1.92 (final)
+      1.92 seconds: ML Lengths 1 of 40 splits
+Optimize all lengths: LogLk = -5575.027 Time 2.09
+Total time: 2.50 seconds Unique: 42/44 Bad splits: 0/39
+
+
+#################################################################################
+####                                 Done!!                                  ####
+#################################################################################
+
+  Overall, 44 genomes of the input 92 were retained (see notes below).
+
+    Tree written to:
+        mammal/mammal.tre
+
+    Alignment written to:
+        mammal/Aligned_SCGs_mod_names.faa
+
+    Main genomes summary table written to:
+        mammal/Genomes_summary_info.tsv
+
+    Summary table with hits per target gene per genome written to:
+        mammal/SCG_hit_counts.tsv
+
+    Partitions file (for downstream use with mixed-model treeing) written to:
+        mammal/run_files/Partitions.txt
+
+ _______________________________________________________________________________
+
+  Notes:
+
+        48 genome(s) removed due to having too few hits to the targeted SCGs.
+        8 gene(s) either had no hits or only multiple hits in each genome.
+        92 genome(s) had an estimated redundancy of >= 10%.
+
+    Reported along with additional informative run files in:
+        mammal/run_files/
+
+    Log file written to:
+ _______________________________________________________________________________
+
+        mammal/gtotree-runlog.txt
+ _______________________________________________________________________________
+
+    Programs used and their citations have been written to:
+        mammal/citations.txt
+
+ _______________________________________________________________________________
+
+
+                                         Total process runtime: 0 hours and 4 minutes.
+                                                      Happy Tuesday :)
+

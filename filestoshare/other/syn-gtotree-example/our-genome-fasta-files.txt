@@ -1,0 +1,12 @@
+GEYO.fa
+N19.fa
+N26.fa
+N32.fa
+N5.fa
+UW105.fa
+UW106.fa
+UW140.fa
+UW179A.fa
+UW179B.fa
+UW69.fa
+UW86.fa
