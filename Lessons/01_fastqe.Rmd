@@ -28,20 +28,20 @@ output:
 
 * The name FASTQ comes from FASTA. FASTA is a very populat format to store sequence information (DNA, RNA, proteins).
 
-![A part of a FASTA file containing the entire genome of the dengue virus.](images/fastafile.png){width=70%}
+![A part of a FASTA file containing the entire genome of the dengue virus.](../images/fastafile.png){width=70%}
 
 * The `Q` refers to "quality". 
 
 * Most sequencing platforms will provide raw reads to the user in this format.
 
 
-![A part of a D. melanogaster FASTQ file.](images/fastqfile.png){width=70%}
+![A part of a D. melanogaster FASTQ file.](../images/fastqfile.png){width=70%}
 
 ## The FASTQC software 
 
 * [FastQC](https://www.bioinformatics.babraham.ac.uk/projects/fastqc/) aims to provide a QC report which can spot problems which originate either in the sequencer or in the starting library material. 
 
-![Interactive version of fastqc. Not scalable to large datasets.](images/fastqc.png){width=70%}
+![Interactive version of fastqc. Not scalable to large datasets.](../images/fastqc.png){width=70%}
 
 * FastQC can be run in one of two modes: as  a stand-alone interactive application for the immediate analysis of small numbers of FastQ files, or in a non-interactive mode (aka **command line**!) where it would be suitable for integrating into a **larger analysis pipeline** for the systematic processing of large numbers of files.
 
@@ -93,7 +93,7 @@ In your terminal, type:
 pip install fastqe
 ```
 
-![](images/install_fastqe.png)
+![](../images/install_fastqe.png)
 
 
 
@@ -131,7 +131,7 @@ To get the help info for fastqe (and many other command line programs) add the -
 ```
 You should see something like this:
 
-![](images/fastqe_help.png)
+![](../images/fastqe_help.png)
 
 
 Which optional argument will show the version # of FASTQE?
@@ -152,7 +152,7 @@ The quality, also called phred score, is the probability that the corresponding 
 Phred scores use a logarithmic scale, and are represented by ASCII characters, mapping to a quality usually going from 0 to 40.
 
 
-![Credit:https://www.hadriengourle.com/tutorials/file_formats/#the-fastq-format](images/phred.png)
+![Credit:https://www.hadriengourle.com/tutorials/file_formats/#the-fastq-format](../images/phred.png)
 
 **Q14) Phred score of ≤20 is considered a poor quality base call. How many poor quality base calls are at the 3’ end of this read?**
 
