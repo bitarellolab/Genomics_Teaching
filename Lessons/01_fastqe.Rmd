@@ -1,6 +1,6 @@
 ---
-title: "Next Generation Sequencing (NGS) ity Analysis with Emoji"
-subtitle: 'Developed by: Ray Enke, Rachael St. Jaques1, Max Maza, Caylin Murray, Sabrina
+title: "Next Generation Sequencing (NGS) quality Analysis with Emoji"
+author: 'Developed by: Ray Enke, Rachael St. Jaques1, Max Maza, Caylin Murray, Sabrina
   Robertson, Andrew Lonsdale, & Jason Williams. Modified by Bárbara Bitarello'
 output:
   html_document:
