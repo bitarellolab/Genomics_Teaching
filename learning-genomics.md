@@ -1,0 +1,130 @@
+# Learning Genomics
+
+
+## Webpages/Tutorials/etc
+
+- [Introduction to Genomics -
+  NIH](https://www.genome.gov/About-Genomics/Introduction-to-Genomics)
+- [Learn Genetics](https://learn.genetics.utah.edu/)
+- [What is
+  biotechnology](https://www.whatisbiotechnology.org/index.php/home)
+- [Genomics Education
+  UK](https://www.genomicseducation.hee.nhs.uk/education/)
+- [Evomics.org](https://evomics.org/) –Intensive and immersive training
+  opportunities on Evolution and Genomics
+- [Isolating DNA from cells-Khan
+  Academy](https://www.khanacademy.org/science/in-in-class-12-biology-india/xc09ed98f7a9e671b:in-in-biotechnology-principles-and-processes/xc09ed98f7a9e671b:in-in-tools-and-processes-of-recombinant-technology/a/enzymes-for-isolation-of-dna)
+- [Learn Genetics - DNA
+  extraction](https://learn.genetics.utah.edu/content/labs/extraction/)
+- [DNA electrophoresis virtual
+  lab](https://learn.genetics.utah.edu/content/labs/gel/)
+- My [Biostatistics with R (B215) course
+  website](https://bbitarello.github.io/b215f2025/)
+- [reddit (r/bioinformatics)](https://www.reddit.com/r/bioinformatics/)
+- [reddit (r/genomics)](https://www.reddit.com/r/genomics/)
+- Twitter: Unfortunately Twitter became unbearable to me. BlueSky is
+  attempting to fill in that gap.
+
+## Books
+
+All are available either as hard copy or online format via TRIPOD:
+
+**Textbook and other reference books**
+
+- [“Genomics: A Very Short
+  Introduction”](https://tripod.brynmawr.edu/permalink/01TRI_INST/1fa7h1r/alma991018808192704921),
+  Archibald, J. (2018) – as the name suggests, a very good (and short)
+  overview of the field.
+- [“Phylogenomics: a
+  primer”](https://tripod.brynmawr.edu/permalink/01TRI_INST/1fa7h1r/alma991019485135904921),
+  DeSalle, R., Tesla, M., Rosenfeld, J. (2021) - good textbook on basics
+  of phylogenomics
+- [“An introduction to molecular
+  anthropology”](An%20introduction%20to%20molecular%20anthropology”),
+  Stoneking, M. (2017) - good textbook on biological/molecular
+  anthropology
+- [“Phylogenomics: an
+  introduction”](https://tripod.brynmawr.edu/permalink/01TRI_INST/imniac/cdi_proquest_ebookcentral_EBC6314111%22)
+  ( Bleidorn, C (2017) – phylogenomics textbook
+- [“The Princeton guide to
+  evolution”](https://tripod.brynmawr.edu/permalink/01TRI_INST/h9f929/alma991018791742504921),
+  several authors. (2014 )- excellent reference book
+- “Introduction to Genomics”, Arthur Lesk - genomics textbook. Both 2nd
+  and 3rd editions are good. Physical copies available at Collier.
+
+## Other books (mostly/somewhat) about genomics
+
+- *“A Crack In Creation: Gene Editing and the Unthinkable Power to
+  Control Evolution”*, Jennifer Doudna & Samuel Sternberg. (2017)
+- *“A Brief History of Everyone Who Ever Lived”*, Adam
+  Rutherford. (2017) - ancient DNA (Neanderthals, human evolution and
+  dispersal around the world, etc.)
+- *“Life’s Edge: the search for what it means to be alive”*, Carl
+  Zimmer. (2021) - my favorite science writer. This is about “What is
+  life” but it has some fantastic material explaining how sequencing
+  technologies were developed.
+- *“Neanderthal man: In search of lost genomes”*, Svante Päabo. (2013) -
+  ancient DNA (Neanderthals, human evolution and dispersal around the
+  world, etc.)
+- *“Symbiotic theory”*, Lynn Margulis. - this is not about genomics, but
+  it describes Margulis’ endosymbiotic theory for the origin of
+  mitochondria and chloroplasts.
+
+## Online EBooks
+
+- [An Owner’s Guide to the Human Genome: an introduction to human
+  population genetics, variation and
+  disease](https://web.stanford.edu/group/pritchardlab/HGbook.html)
+- [An Integrated Introduction to Chemistry &
+  Biology](https://projects.iq.harvard.edu/lifesciences1abookv1/ebook) -
+  very good for recap material from Intro Bio 110, and reads better than
+  Campbell, in my opinion
+
+## Science News
+
+- [Nature
+  News\|Genetics](https://www.nature.com/news/bysubject/genetics)
+- [Nature News & Views](http://www.nature.com/news/index.html)
+- [MIT Technological Review](https://www.technologyreview.com/)
+- [Science Magazine
+  News](http://news.sciencemag.org/%22%3EScience%20Magazine%20News)
+- [Science Daily](http://www.sciencedaily.com/)
+- [Phys Org](https://phys.org/)
+- [Scientific American](https://www.scientificamerican.com/)
+
+## Blogs
+
+- [Genomes Unzipped](http://www.genomesunzipped.org/)- ddefunct, but
+  with good old content.
+- [Phylogenomics Blogspot](http://phylogenomics.blogspot.com/) - Tree of
+  Life (Phylogenomics)
+- [Genomics Law Report](http://www.genomicslawreport.com/)
+- [Omics! Omics!](http://omicsomics.blogspot.com/)
+- [John Hawk’ Weblog](http://johnhawks.net/weblog)
+- [Mass Genomics](http://massgenomics.org)
+- [Core Genomics](http://enseqlopedia.com/coregenomics/)
+- [The Spittoon 23andMe](http://spittoon.23andme.com/)
+- [Ewan Birney’s Blog](http://ewanbirney.com)- leader of ENCODE
+
+## Article Collections:
+
+- [Matter by Carl Zimmer, NY
+  Times](https://www.nytimes.com/column/matter)
+- [Ed Yong, The Atlantic](https://www.theatlantic.com/author/ed-yong/)
+
+## Podcasts
+
+- [Bioinformatics Chat](https://bioinformatics.chat/) - to b216
+  students: if you do check this out, there is a certain genomics
+  professor that you know that has been featured in that podcast. The
+  first three students to find them and send me a link to my email will
+  get an extra credit bonus of 0.5pt in the course. Make sure to write
+  “b216 bioinformatics chat” in the subject of the email.
+- What is life? - Carl Zimmer
+- [Naked Genetics Podcast](https://www.thenakedscientists.com/)
+
+## Videos
+
+- [B216 Youtube
+  Playlist](https://www.youtube.com/playlist?embed=no&list=PLA3ArwPxU4MzSlS8vsf7pIOjfyGYPwPUX) -
+  constantly updated; suggestions are welcome
