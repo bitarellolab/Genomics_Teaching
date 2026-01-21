@@ -1,6 +1,6 @@
 ---
 title: "Learning Genomics"
-format: gfm
+format: html
 editor: visual
 ---
 

@@ -1,0 +1,36 @@
+---
+title: "Resources (books, webpages, etc)"
+format: html
+editor: visual
+---
+
+## Freely available resources for learning more:
+
+Coop, G. (2020). Population and quantitative genetics (3rd ed.). Creative Commons Attribution License (https://creativecommons.org/). <https://cooplab.github.io/popgen-notes/>
+
+Nikitin, A. G. (n.d) Human Genetics. Creative Commons Attribution-NonCommercial 4.0 International License (https://creativecommons.org/licenses/by-nc/4.0/). <https://pressbooks.gvsu.edu/humangenetics/front-matter/human-genetics-principles-and-applications/>
+
+Pritchard, J. K. (2023). An owner’s guide to the human genome: An introduction to human population genetics, variation, and disease. Stanford University. <https://web.stanford.edu/group/pritchardlab/HGbook.html>
+
+Thornton, K. (2025). Visual guide to concepts in population genetics (Version 2025-01-08). CC-BY-SA-4.0 license (https://creativecommons.org/licenses/by-sa/4.0/). <https://www.molpopgen.org/visual-popgen>
+
+## Books available at TRIPOD
+
+Cutter, A. D. (2019). A primer of molecular population genetics. Oxford University Press.
+
+Gillespie, J. H. (2004). Population genetics: a concise guide. JHU press.
+
+Hahn, M. W. (2018). Molecular population genetics. Sunderland, MA: Sinauer Associates. ISBN 978-0878939657.
+
+Lynch, M., & Walsh, B. (2007). The origins of genome architecture. Sunderland, MA: Sinauer associates.
+
+Yang, Z. (2006). Computational molecular evolution. OUP Oxford.
+
+## Others books
+
+-   [“Genomics: A Very Short Introduction"](https://tripod.brynmawr.edu/permalink/01TRI_INST/1fa7h1r/alma991018808192704921), Archibald, J. (2018)
+-   ["Phylogenomics: a primer"](https://tripod.brynmawr.edu/permalink/01TRI_INST/1fa7h1r/alma991019485135904921), DeSalle, R., Tesla, M., Rosenfeld, J. (2021) - good textbook on basics of phylogenomics
+-   "An introduction to molecular anthropology", Stoneking, Mark. (2017) - good textbook on biological/molecular anthropology
+-   ["Phylogenomics: an introduction"](https://tripod.brynmawr.edu/permalink/01TRI_INST/imniac/cdi_proquest_ebookcentral_EBC6314111%22), Bleidorn, C (2017)-- phylogenomics textbook
+-   ["The Princeton guide to evolution"](https://tripod.brynmawr.edu/permalink/01TRI_INST/h9f929/alma991018791742504921), several authors. (2014 )- excellent reference book
+-   "Introduction to Genomics", Arthur Lesk - genomics textbook. Both 2nd and 3rd editions are good. Physical copies available at Collier.
