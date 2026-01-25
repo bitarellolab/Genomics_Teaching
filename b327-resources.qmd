@@ -34,3 +34,7 @@ Yang, Z. (2006). Computational molecular evolution. OUP Oxford.
 -   ["Phylogenomics: an introduction"](https://tripod.brynmawr.edu/permalink/01TRI_INST/imniac/cdi_proquest_ebookcentral_EBC6314111%22), Bleidorn, C (2017)-- phylogenomics textbook
 -   ["The Princeton guide to evolution"](https://tripod.brynmawr.edu/permalink/01TRI_INST/h9f929/alma991018791742504921), several authors. (2014 )- excellent reference book
 -   "Introduction to Genomics", Arthur Lesk - genomics textbook. Both 2nd and 3rd editions are good. Physical copies available at Collier.
+
+## Other Resources
+
+*Evolutionary Genetics*. Web, https://www.nature.com/scitable/topic/evolutionary-genetics-13/. Accessed 25 Jan. 2026.
