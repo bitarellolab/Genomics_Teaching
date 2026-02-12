@@ -7,6 +7,7 @@ editor: visual
 ## Webpages/Tutorials/etc
 
 -   [Introduction to Genomics - NIH](https://www.genome.gov/About-Genomics/Introduction-to-Genomics)
+-   [What is biotechnology](https://www.whatisbiotechnology.org/index.php/home)
 -   [Learn Genetics](https://learn.genetics.utah.edu/)
 -   [What is biotechnology](https://www.whatisbiotechnology.org/index.php/home)
 -   [Genomics Education UK](https://www.genomicseducation.hee.nhs.uk/education/)
@@ -43,7 +44,9 @@ All are available either as hard copy or online format via TRIPOD:
 ## Online EBooks
 
 -   [An Owner's Guide to the Human Genome: an introduction to human population genetics, variation and disease](https://web.stanford.edu/group/pritchardlab/HGbook.html)
--   [An Integrated Introduction to Chemistry & Biology](https://projects.iq.harvard.edu/lifesciences1abookv1/ebook) - very good for recap material from Intro Bio 110, and reads better than Campbell, in my opinion
+-   [An Integrated Introduction to Chemistry & Biology](https://projects.iq.harvard.edu/lifesciences1abookv1/ebook) - ~~very good for recap material from Intro Bio 110, and reads better than Campbell, in my opinion~~ Unfortunately this ebook seems to have been archived and the link no longer works
+-   [Monash University Biology Resources](https://www.monash.edu/student-academic-success/biology/nucleic-acids-and-proteins "Monash University Biology Resources")
+-   Molecular Biology Textbooks [www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=Book](www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=Book "www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=Book")
 
 ## Science News
 
