@@ -47,6 +47,7 @@ All are available either as hard copy or online format via TRIPOD:
 -   [An Integrated Introduction to Chemistry & Biology](https://projects.iq.harvard.edu/lifesciences1abookv1/ebook) - ~~very good for recap material from Intro Bio 110, and reads better than Campbell, in my opinion~~ Unfortunately this ebook seems to have been archived and the link no longer works
 -   [Monash University Biology Resources](https://www.monash.edu/student-academic-success/biology/nucleic-acids-and-proteins "Monash University Biology Resources")
 -   Molecular Biology Textbooks [www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=Book](www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=Book "www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=Book")
+-   [BioNumbers website](https://bionumbers.hms.harvard.edu/search.aspx) and the ["Cell Biology by Numbers"](https://book.bionumbers.org/) ebook available there.
 
 ## Science News
 
