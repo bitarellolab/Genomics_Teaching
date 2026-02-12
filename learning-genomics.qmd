@@ -7,6 +7,7 @@ editor: visual
 ## Webpages/Tutorials/etc
 
 -   [Introduction to Genomics - NIH](https://www.genome.gov/About-Genomics/Introduction-to-Genomics)
+-   [What is biotechnology](https://www.whatisbiotechnology.org/index.php/home)
 -   [Learn Genetics](https://learn.genetics.utah.edu/)
 -   [What is biotechnology](https://www.whatisbiotechnology.org/index.php/home)
 -   [Genomics Education UK](https://www.genomicseducation.hee.nhs.uk/education/)
@@ -17,7 +18,6 @@ editor: visual
 -   My [Biostatistics with R (B215) course website](https://bbitarello.github.io/b215f2025/)
 -   [reddit (r/bioinformatics)](https://www.reddit.com/r/bioinformatics/)
 -   [reddit (r/genomics)](https://www.reddit.com/r/genomics/)
--   [BioNumbers website](https://bionumbers.hms.harvard.edu/search.aspx)
 -   Twitter: Unfortunately Twitter became unbearable to me. BlueSky is attempting to fill in that gap.
 
 ## Books
@@ -43,9 +43,10 @@ All are available either as hard copy or online format via TRIPOD:
 
 ## Online EBooks
 
--    Pritchard J. 2023. [An Owner's Guide to the Human Genome: an introduction to human population genetics, variation and disease](https://web.stanford.edu/group/pritchardlab/HGbook.html)
--   Milo R, Phillips R. 2015. *Cell biology by the numbers*. Garland Science: London, England doi: 10.1201/9780429258770. Draft version available online: <https://book.bionumbers.org/>
--   [An Integrated Introduction to Chemistry & Biology](https://projects.iq.harvard.edu/lifesciences1abookv1/ebook) - very good for recap material from Intro Bio 110, and reads better than Campbell, in my opinion
+-   [An Owner's Guide to the Human Genome: an introduction to human population genetics, variation and disease](https://web.stanford.edu/group/pritchardlab/HGbook.html)
+-   [An Integrated Introduction to Chemistry & Biology](https://projects.iq.harvard.edu/lifesciences1abookv1/ebook) - ~~very good for recap material from Intro Bio 110, and reads better than Campbell, in my opinion~~ Unfortunately this ebook seems to have been archived and the link no longer works
+-   [Monash University Biology Resources](https://www.monash.edu/student-academic-success/biology/nucleic-acids-and-proteins "Monash University Biology Resources")
+-   Molecular Biology Textbooks [www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=Book](www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=Book "www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=Book")
 
 ## Science News
 
@@ -77,7 +78,7 @@ All are available either as hard copy or online format via TRIPOD:
 ## Podcasts
 
 -   [Bioinformatics Chat](https://bioinformatics.chat/) - to b216 students: if you do check this out, there is a certain genomics professor that you know that has been featured in that podcast. The first three students to find them and send me a link to my email will get an extra credit bonus of 0.5pt in the course. Make sure to write "b216 bioinformatics chat" in the subject of the email.
--   [What is life? - Carl Zimmer](https://carlzimmer.com/podcasts/what-is-life/)
+-   What is life? - Carl Zimmer
 -   [Naked Genetics Podcast](https://www.thenakedscientists.com/)
 
 ## Videos
