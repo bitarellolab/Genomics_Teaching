@@ -6,7 +6,9 @@ editor: visual
 
 ## Webpages/Tutorials/etc
 
+-   [Awesome Genomics Visualizations](https://cmdcolin.github.io/awesome-genome-visualization/?latest=true)
 -   [Introduction to Genomics - NIH](https://www.genome.gov/About-Genomics/Introduction-to-Genomics)
+-   
 -   [What is biotechnology](https://www.whatisbiotechnology.org/index.php/home)
 -   [Learn Genetics](https://learn.genetics.utah.edu/)
 -   [What is biotechnology](https://www.whatisbiotechnology.org/index.php/home)
