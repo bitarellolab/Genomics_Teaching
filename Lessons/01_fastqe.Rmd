@@ -105,14 +105,15 @@ pip install fastqe
 
 Note: Remember that fastq files are very large, so this command will take ~30 seconds/
 
-First, list what's in this directory:
+First, `cd` into the directory we'll be using: `~/filestoshare/fastq/gartersnake`.
 
+Next, list what's in this directory:
 
 ```{bash, eval=F}
 fastqe *fastq
 ```
 
-**Q12) What are the advantages and disadvantages to using the command fastqe  *.fastq rather than fastqe for each of your files (e.g. fastqe Female2-oral1.fastq ... fastqe Male5-oral1.fastq...) ?**
+**Q12) What are the advantages and disadvantages to using the command fastqe *.fastq rather than fastqe for each of your files (e.g. fastqe Female2-oral1.fastq ... fastqe Male5-oral1.fastq...) ?**
 
 
 **Q13) Which one of the three files seems to have lower quality than the others?**
@@ -123,7 +124,7 @@ fastqe *fastq
 
 Open the FASTQE help page to view the “optional arguments”, these are all of the options and setting for the program.
 
-To get the help info for fastqe (and many other command line programs) add the --help option to the fastqe program instead of a filename or wildcard (remember to leave a space between fastqe and --help).
+To get the help info for fastqe (and many other command line programs) add the `--help` option to the fastqe program instead of a filename or wildcard (remember to leave a space between `fastqe` and `--help`).
 
 ```{bash, echo=T, eval=F}
 #type your command in your terminal
@@ -138,7 +139,7 @@ Which optional argument will show the version # of FASTQE?
 
 ## Step 4. Scale
 
-Add the --scale option to the fastqe command to view the Phred score associated with each emoji in your output. Try this just for the `Male5-oral1.fastq` file (remember to leave a space before you type --scale). This will take a few seconds to run.
+Add the `--scale` option to the fastqe command to view the Phred score associated with each emoji in your output. Try this just for the `Male5-oral1.fastq` file (remember to leave a space before you type `--scale`). This will take a few seconds to run.
 
 ```{bash, echo=T, eval=F}
 #type your command in your terminal
@@ -195,13 +196,15 @@ Write a command using Male5-oral1.fastq as your input and out.Male5-oral1.fastq 
 
 ```
 
-You should now have 3 new files in your fastp folder
+You should now have 3 new files in your current folder:
 
 * .html file (this is your QC report)
 * .json file (ignore this for now)
 * trimmed fastq file (out.Male5_oral1.fastq)
 
-Click on the fastp.html file in the left sidebar pane inside `filestoshare/fastq/` on the left to examine this report.
+Click on the fastp.html file in the left sidebar pane inside `filestoshare/fastq/gartersnake` on the left to examine this report.
+
+*Note: Some of the plots might not show up correctly in the browser inside the mybinder.org environment. You can also open the file in your normal browser by right-clicking the file in the left sidebar and selecting "Open in new browser tab".*
 
 **Q15) From the “Summary” data in your HTML fastp report, how many reads are in this FASTQ file before and after filtering?**
 
