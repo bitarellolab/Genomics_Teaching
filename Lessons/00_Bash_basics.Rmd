@@ -32,7 +32,7 @@ While the visual aid of a GUI makes it intuitive to learn, this way of deliverin
 
 ## What the hell is "the shell"?
 
-The Unix shell is **both a command-line interface (CLI) and a scripting language*, allowing such repetitive tasks to be done automatically and fast. With the proper commands, the shell can repeat tasks with or without some modification as many times as we want. Using the shell, the task in the literature example can be accomplished in seconds.
+The Unix shell is **both a command-line interface (CLI) and a scripting language**, allowing such repetitive tasks to be done automatically and fast. With the proper commands, the shell can repeat tasks with or without some modification as many times as we want. Using the shell, the task in the literature example can be accomplished in seconds.
 
 It is a computer program that allows you to "talk" to your computer and give it tasks. But you need to speak its language!
 
@@ -44,8 +44,6 @@ On Windows: I've heard it's possible but I cannot attest to it. Last I used wind
 
 
 ## Opening a terminal window
-
-For this introductory activity, we will use the terminal pane you opened in our B216_S23 binder.
 
 In your life, know that you can access a terminal in any computer:
 
@@ -73,7 +71,7 @@ In bioinformatics, there are often user friendly versions of software (though no
 Remember, the terminal is a way for you to talk to your computer. Or, in this case, a virtual space.
 
 
-Note: a directory is what you ordinarily call a "folder" in a computer. For example, on my mac I have a `Documents` folder where I have a `B216_S23` folder. Those are both directories, or subdirectories. The ultimate direcotry is the one that contains all the subdirectories! On Mac/Unix machines, that's given by `/`.
+Note: a directory is what you ordinarily call a "folder" in a computer. For example, on my mac I have a `Documents` folder where I have a `B216` folder. Those are both directories, or subdirectories. The ultimate directory is the one that contains all the subdirectories! On Mac/Unix machines, that's given by `/`.
 
 ### Checking where you are
 
@@ -84,13 +82,7 @@ Once you open a terminal, run the **"path to working directory"** command:
 pwd
 ```
 
-* Before we move further, open a regular text file in your computer.
-
-* Name it so that it reflects your BMC/Haverford username. E.g. my BMC email is bbitarello@brynmawr.edu, so my filename would be `lab8_bbitarello_answer_sheet.txt`.
-
-* All done! Now, whenever a question comes up, type your answers into that file. 
-
-* Upload that to Moodle when you're done.
+*For the questions below, use the (answer sheet template)[https://docs.google.com/document/d/1qO2RiXaoLY19L2nsPT7oDLESz2P_UDeuQxnQJWs826o/edit?usp=sharing] provided to type your answers.*
 
 
 **Q1. What does this show you? (I.e., what is the output of the command above)** Copy your output into your answer sheet.
@@ -190,13 +182,13 @@ head sarscov2genome.fasta
 
 The head command shows you the first 10 lines of a textfile. 
 
-Now let's use the tail command. Repeat the above command replacing `head` by `tail`:
+Now let's use the tail command. Repeat the above command replacing `head` with `tail`:
 
 ```{bash, echo=T, eval=F}
 #type your command in your terminal 
 ```
 
-**Q9. What does this do?**
+**Q9. What did the `tail` command do?**
 
 Finally, you can also check how many lines a textfile has without ever having to open it. (this can prevent you from crashing your computer when you have a very large file...)
 
@@ -206,7 +198,7 @@ Use the "word count" command, `wc`:
 wc sarscov2genome.fasta 
 ```
 
-**Q10. What did this do?**
+**Q10. What did the `wc` command do?**
 
 
 Great! Now let's move up one directory. Up means towards the directory that contains the one you are in. Whenever you are in a subdirectory, you can go back to the one “above” it by simply typing `../`.
@@ -248,6 +240,8 @@ The `more` command!
 We saw how `head` and `tail` work. Here is another useful one: the `more` command. Try it on `Female2-oral1.fastq`. It will show you the contents of the file until your terminal is full. 
 
 * Tap `enter` to keep seeing what comes next in the file.
+
+* Press `q` when you're ready to stop looking at the file.
 
 * Congrats! You looked at a giant file without having to open it!
 
