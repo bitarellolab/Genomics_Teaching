@@ -208,6 +208,8 @@ This help page will show you more information than you realistically need right 
 
 The most important bit of information right now is near the top of the help output, where it describes what is printed when you run `wc` on a file or files.
 
+Note: the `--help` flag might not work on your laptop, due to some obscure differences in software. On Mac, you can use `man wc` (man = "manual") to get the same info.
+
 **Q10. What did the `wc` command do?**
 
 
