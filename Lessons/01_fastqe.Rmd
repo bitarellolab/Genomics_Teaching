@@ -113,6 +113,7 @@ Open the FASTQE help page to view the “optional arguments”, these are all of
 
 To get the help info for fastqe (and many other command line programs) add the `--help` option to the fastqe program instead of a filename or wildcard (remember to leave a space between `fastqe` and `--help`).
 
+
 ```{bash, echo=T, eval=F}
 #type your command in your terminal
 
