@@ -82,10 +82,10 @@ Once you open a terminal, run the **"path to working directory"** command:
 pwd
 ```
 
-*For the questions below, use the (answer sheet template)[https://docs.google.com/document/d/1qO2RiXaoLY19L2nsPT7oDLESz2P_UDeuQxnQJWs826o/edit?usp=sharing] provided to type your answers.*
+*For the questions below, use the [answer sheet template](https://docs.google.com/document/d/1qO2RiXaoLY19L2nsPT7oDLESz2P_UDeuQxnQJWs826o/edit?usp=sharing) provided to type your answers.*
 
 
-**Q1. What does this show you? (I.e., what is the output of the command above)** Copy your output into your answer sheet.
+**Q1) What does this show you? (I.e., what is the output of the command above)** Copy your output into your answer sheet.
 
 
 ### Listing contents
@@ -97,7 +97,7 @@ ls
 
 ```
 
-**Q2. What do you think the above command does?**
+**Q2) What do you think the above command does?**
 
 
 Notice a resemblance between the output of your command line and the left sidebar panel? That's because the terminal is a different way to access things! Instead of clicking on things through a user interface, you type commands.
@@ -116,7 +116,7 @@ You are now at a different subdirectory! Convince yourself by typing `pwd`:
 pwd
 ```
 
-**Q3. What is the output of the command above?** Copy your output into your answer sheet.
+**Q3) What is the output of the command above?** Copy your output into your answer sheet.
 
 Now you can use `ls` again to see what's inside this subdirectory:
 
@@ -124,10 +124,10 @@ Now you can use `ls` again to see what's inside this subdirectory:
 ls
 ```
 
-**Q4. What are the names of the subdirectories in this directory?** Copy your output into your answer sheet.
+**Q4) What are the names of the subdirectories in this directory?** Copy your output into your answer sheet.
 
 
-**Q5. How can you differentiate file names from directory names?**
+**Q5) How can you differentiate file names from directory names?**
 
 ### Changing directories
 
@@ -150,7 +150,7 @@ Check that it worked. You should now be at `/home/jovyan`. Note: if you were usi
 
 **Trivia:** why do you think the user name in this virtual space is `jovyan`?
 
-**Q6. How can you check that you are indeed there? What command would you use?**
+**Q6) How can you check that you are indeed there? What command would you use?**
 
 
 ### Looking at a file without opening it (!)
@@ -159,7 +159,7 @@ Now, let's demonstrate how you can access the contents of a file without "openin
 
 Go back to the `filestoshare/fasta` directory.
 
-**Q7. What command do you use for this?**
+**Q7) What command do you use for this?**
 
 
 
@@ -170,7 +170,7 @@ Now, once again use the `ls` command to see what's inside this subdirectory:
 ls
 ```
 
-**Q8. How many files are in there?**
+**Q8) How many files are in there?**
 
 
 Let's investigate the file called `sarscov2genome.fasta` by using the `head` command:
@@ -188,7 +188,7 @@ Now let's use the tail command. Repeat the above command replacing `head` with `
 #type your command in your terminal 
 ```
 
-**Q9. What did the `tail` command do?**
+**Q9) What did the `tail` command do?**
 
 Finally, you can also check how many lines a textfile has without ever having to open it. (this can prevent you from crashing your computer when you have a very large file...)
 
@@ -210,7 +210,7 @@ The most important bit of information right now is near the top of the help outp
 
 Note: the `--help` flag might not work on your laptop, due to some obscure differences in software. On Mac, you can use `man wc` (man = "manual") to get the same info.
 
-**Q10. What did the `wc` command do?**
+**Q10) What did the `wc` command do?**
 
 
 Great! Now let's move up one directory. Up means towards the directory that contains the one you are in. Whenever you are in a subdirectory, you can go back to the one “above” it by simply typing `../`.
@@ -242,7 +242,7 @@ First, list the contents in this directory.
 
 Let's look at the `Female2-oral1.fastq` file.
 
-**Q11. How many lines does it have? Use the commands we learned. Copy your command and output to your answer sheet.**
+**Q11) How many lines does it have? Use the commands we learned. Copy your command and output to your answer sheet.**
 
 
 Hopefully that convinced you that you don't want to try and open that file! But what if you want to look at the contents bit by bit, instead of a fixed number of lines?
@@ -258,7 +258,7 @@ We saw how `head` and `tail` work. Here is another useful one: the `more` comman
 * Congrats! You looked at a giant file without having to open it!
 
 
-When you're done here, go to the left sidebar and open the file called `01_fastqe.html`.
+When you're done here, go to the left sidebar and double click on the file called `01_fastqe.html`.
 
 ---
 
