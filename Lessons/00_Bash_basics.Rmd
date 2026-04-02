@@ -198,13 +198,14 @@ Use the "word count" command, `wc`:
 wc sarscov2genome.fasta 
 ```
 
-Hmm, what are all these numbers? This would be a good time to check the documentation for the `wc` program. Type this into your terminal to get some information about what `wc`:
+Hmm, what are all these numbers? This would be a good time to check the documentation for the `wc` program. Type this into your terminal to get some information about what `wc` does:
 
 ```{bash, echo=T, eval=F}
 wc --help
 ```
 
 This help page will show you more information than you realistically need right now, like a list of options you can use to tell the program more specifically what you want. 
+
 The most important bit of information right now is near the top of the help output, where it describes what is printed when you run `wc` on a file or files.
 
 **Q10. What did the `wc` command do?**
